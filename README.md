@@ -2,8 +2,8 @@
 Um teste rápido, simples para aplicar a teoria aprendida no curso a fim de mostrar o resultado de um teste feito via linha de comando.
 Foi utilizado o seguinte comando para criar de uma única vez o arquivo de resultado, para com ele poder gerar o dashboard com as informações pertinentes ao teste.
 # Linha de comando
-Acesse a pasta onde se encontra o arquivo jmx
-C:\exemplo
+Acesse a pasta onde se encontra o arquivo jmx \n
+C:\exemplo \n
 Acesse o executável do JMeter
 C:\exemplo: C:\jmeter\bin\jmeter.bat
 Essa opção diz para o JMeter ser executado apenas por linha de comando (sem a interface gráfica) 
