@@ -12,7 +12,7 @@ Para carregar o arquivo jmx usa-se o parametro -t e o nome do arquivo, Seu scrip
 C:\exemplo: C:\jmeter\bin\jmeter.bat -n -t Livros.jmx <br>
 Para que possa gerar o arquivo jtl ou log usa-se o parametro -l seguido do nome do arquivo, Arquivo log de resultados do seu teste (arquivo JTL) <br>
 C:\exemplo: C:\jmeter\bin\jmeter.bat -n -t Livros.jmx -l resultado.log <br>
-- e >> O paramentro -e serve para geração do dashboard <br>
+O paramentro -e serve para geração do dashboard <br>
 C:\exemplo: C:\jmeter\bin\jmeter.bat -n -t Livros.jmx -l resultado.log -e <br>
--o >> Pasta de saída onde será gerado o dashboard. Pasta não pode existir ou deve estar vazia <br>
+O parametro -o serve para criação da pasta de saída onde será gerado o dashboard. Pasta não pode existir ou deve estar vazia <br>
 C:\exemplo: C:\jmeter\bin\jmeter.bat -n -t Livros.jmx -l resultado.log -e -o dashboard <br>
