@@ -1,0 +1,6 @@
+nome,curso,trainee,empresa,cto,head
+Francisco,JMeter,Pedro,Vericode,Mateus,Tatiane
+Jamily,Git,Pedro,Vericode,Mateus,Tatiane
+Bryan,Excel,Pedro,Vericode,Mateus,Tatiane
+Leonardo,Linux,Pedro,Vericode,Mateus,Tatiane
+Kaio,Windows,Pedro,Vericode,Mateus,Tatiane	 	
